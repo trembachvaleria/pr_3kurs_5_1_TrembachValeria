@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Погода API</string>
+    <string name="vvod">Введите город (например: Yekaterinburg)</string>
+    <string name="pol">Получить погоду</string>
+</resources>
